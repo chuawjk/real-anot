@@ -47,6 +47,12 @@ weighted avg       0.94      0.94      0.93       349
 | Actual real |               5|             269|
 ```
 
+## Unit testing
+Unit tests for preprocessing and inference functions can be initialised by running:
+```
+$ pytest
+```
+
 ## Demo app
 - Instructions for launching the demo app locally
 ```
